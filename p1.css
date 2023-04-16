@@ -12,7 +12,7 @@ main {
 
   }
   .Menue{
-    background-color: black;
+    background-color: blue;
     text-align: center;
     
   }
@@ -24,7 +24,7 @@ main {
 
     }
     .Menue a{
-        color:white
+        color:purple
     }
     
     
