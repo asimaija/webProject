@@ -2,7 +2,7 @@ p1.html contains a menu bar with various options to merge, split, compress and c
 p2.html contains a form to sign up for a new account, with fields for name, email, and password.
 p1.css is a stylesheet file that applies styling to the HTML elements. It sets the background image of the body to a brown marble texture and applies some styling to the menu bar and user profile form.
   
-Repository
+Repository:
 Asima can create a repository on GitHub by following these steps:
 I create repository by login to GITHUB account and select "New Repository" from drop down menu.I give  repository a name "WebProject" from drop down memu and choose as a public repository and initialize a repository with readme file.
 
