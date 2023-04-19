@@ -12,7 +12,7 @@ main {
 
   }
   .Menue{
-    background-color: blue;
+    background-color: grey;
     text-align: center;
     
   }
@@ -31,7 +31,7 @@ main {
    
        
     a:hover{
-        color:red;
+        color:green;
     }
     
     .SubMenue1{
@@ -173,9 +173,9 @@ label {
       background-color: rgb(7, 68, 7);
      }
 
-     .UserProfile input[type="Name"]
-     .UserProfile input[type="email"]
-     .UserProfile input[type="Password"]{
+     .UserProfile input[type="Name:"]
+     .UserProfile input[type="email:"]
+     .UserProfile input[type="Password:"]{
       display:flex;
       margin:auto;
      }
