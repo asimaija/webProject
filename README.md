@@ -13,7 +13,7 @@ I create repository by login to GITHUB account and select "New Repository" from 
 
 
 
-Ayesha initializes a new git repository in current directory .Then the changes in p1.css file for commiting them to the repository using git add command.And Record changes to the repository along with a commit message describe the changes using git Commit command .Then upload changes to the  remote repository typically hosted on a service Like GITHUB using push command .At the end creates a local copy of remote directory.
+Ayesha initializes a new git repository in current directory .Then the changes in p1.css file for commiting them to the repository using git add. command.And Record changes to the repository along with a commit message describe the changes using git Commit command .Then upload changes to the  remote repository typically hosted on a service Like GITHUB using push command .At the end creates a local copy of remote directory.using a clone command
 
 
-Raza creates a README file for his web project and name it WebProject.md. He then commit and push the file to his GitHub repository so that other people can easily access it.
+Raza create a readmefile  and name it WebProject.md.After creating README file he should commit and push itto the GITHUB repository so that other can easily acess it.
